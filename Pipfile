@@ -10,6 +10,7 @@ deprecation = ">=2.1.0"
 pytest = ">=2.7.2"
 PyYAML = ">=5.1"
 vss-tools = {editable = true, path = "."}
+avro = ">1.10.2"
 
 [dev-packages]
 
